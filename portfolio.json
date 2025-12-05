@@ -1,0 +1,10 @@
+{
+  "BTC": {
+    "shares": 0.5,
+    "buy_price": 40000
+  },
+  "ETH": {
+    "shares": 2,
+    "buy_price": 2000
+  }
+}
